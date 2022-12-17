@@ -12,13 +12,14 @@ npm run dev
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 ```bash
+git remote add origin https://github.com/USER/REPO.git
 git push --set-origin origin main
 git remote -v
 git push -f origin master
 ```
 
 ## React Cheatsheet
-
+```bash
 Installing react:
 npm install --global yarn
 npm install -g create-react-app
@@ -47,7 +48,7 @@ npm view react version
 npm install react-icons --save
 npm install swiper
 npm i react-calendar
-
+```
 package.json will have all the dependencies.
 src/index.js Update and save this file to refresh the page on localhost:3000
 
