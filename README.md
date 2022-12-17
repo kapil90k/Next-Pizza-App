@@ -179,3 +179,10 @@ body {
 }
 
 https://stackoverflow.com/questions/71930685/nextjs-localstorage-and-context-of-shopping-cart
+
+
+###Convert Github to VsCode:
+
+https://github1s.com/kapil90k/Next-Tailwind-Empty-Template
+
+or press dot(.) button on keyboard.
